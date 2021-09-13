@@ -1,7 +1,7 @@
 # Prisma Cloud Resource Public IP CSV
 
 Version: *1.0*
-Author: *Marc Hobson*
+Author: *Marc Hobson and Eddie Beuerlein*
 
 ### Summary
 This script will create a csv file that contains the resource data from the configuration section of the Prsims Cloud
